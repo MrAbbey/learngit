@@ -6,4 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 dev commit1
 bug fix
-dev modify1
+dev modify13
